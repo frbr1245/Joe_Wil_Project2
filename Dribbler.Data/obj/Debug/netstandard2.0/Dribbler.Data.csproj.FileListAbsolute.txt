@@ -1,0 +1,8 @@
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\bin\Debug\netstandard2.0\Dribbler.Data.deps.json
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\bin\Debug\netstandard2.0\Dribbler.Data.dll
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\bin\Debug\netstandard2.0\Dribbler.Data.pdb
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\obj\Debug\netstandard2.0\Dribbler.Data.csproj.CoreCompileInputs.cache
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\obj\Debug\netstandard2.0\Dribbler.Data.AssemblyInfoInputs.cache
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\obj\Debug\netstandard2.0\Dribbler.Data.AssemblyInfo.cs
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\obj\Debug\netstandard2.0\Dribbler.Data.dll
+C:\Revature\Project2\Joe_Wil_Project2\Dribbler.Data\obj\Debug\netstandard2.0\Dribbler.Data.pdb
